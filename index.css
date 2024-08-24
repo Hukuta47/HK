@@ -1,5 +1,18 @@
 body
 {
-    background-color: black;
-    color: white;
+    margin: 0px;
+}
+.slide
+{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    align-content: center;
+}
+#logo_HK
+{
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
